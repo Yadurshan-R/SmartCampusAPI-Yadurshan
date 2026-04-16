@@ -1,5 +1,10 @@
 # 5COSC022C.2: Client-Server Architectures (SmartCampusAPI)
 
+<br>
+
+The CSA Report Containing The Answers To The Questions:  
+[20220329-w1957961-CSA-Report.pdf](./20220329-w1957961-CSA-Report.pdf)
+
 ## Personal Information
 
 <br>
