@@ -84,7 +84,7 @@ The following steps provide a detailed guide to installing and running the Smart
 1. Clone the remote repository from GitHub to your local machine's environment
 
     ```sh
-    git clone
+    git clone https://github.com/Yadurshan-R/SmartCampusAPI-Yadurshan.git
     ```
 
 <br>
